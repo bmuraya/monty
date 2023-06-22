@@ -1,4 +1,4 @@
-# monty
+# monty monty is an interpreter of Monty ByteCodes files, which is a scripting language just like Python.
 ## Stacks, Queues - LIFO, FIFO
 
 Stacks and queues are fundamental data structures in computer science used to organize and manage collections of items. They differ in their behavior and the order in which elements are accessed and removed.
@@ -8,11 +8,11 @@ Stacks and queues are fundamental data structures in computer science used to or
 * A stack is a linear data structure that follows the LIFO principle, meaning the last element inserted is the first one to be removed.
 * It operates on the principle of "last in, first out," just like a stack of plates, where the last plate placed on top is the first one to be removed.
 * The two main operations on a stack are:
- * Push: Adds an element to the top of the stack.
- * Pop: Removes the top element from the stack.
+    * Push: Adds an element to the top of the stack.
+    * Pop: Removes the top element from the stack.
 * Additional operations on stacks may include:
- * Peek (or Top): Retrieves the top element without removing it.
- * IsEmpty: Checks if the stack is empty.
+    * Peek (or Top): Retrieves the top element without removing it.
+    * IsEmpty: Checks if the stack is empty.
 * Stacks can be implemented using arrays or linked lists.
 
 ## 2. Queue (FIFO - First-In, First-Out):
@@ -20,11 +20,11 @@ Stacks and queues are fundamental data structures in computer science used to or
 * A queue is a linear data structure that follows the FIFO principle, meaning the first element inserted is the first one to be removed.
 * It operates on the principle of "first in, first out," similar to a queue of people waiting in line, where the person who arrived first is the first one to be served.
 * The two main operations on a queue are:
- * Enqueue: Adds an element to the end of the queue.
- * Dequeue: Removes the element from the front of the queue.
+    * Enqueue: Adds an element to the end of the queue.
+    * Dequeue: Removes the element from the front of the queue.
 * Additional operations on queues may include:
- * *Front*: Retrieves the element at the front without removing it.
- * *IsEmpty*: Checks if the queue is empty.
+    * *Front*: Retrieves the element at the front without removing it.
+    * *IsEmpty*: Checks if the queue is empty.
 *Queues can be implemented using arrays or linked lists.
 
  files
