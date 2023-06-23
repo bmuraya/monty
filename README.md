@@ -1,4 +1,7 @@
-# monty monty is an interpreter of Monty ByteCodes files, which is a scripting language just like Python.
+# monty 
+
+monty is an interpreter of Monty ByteCodes files, which is a scripting language just like Python.
+
 ## Stacks, Queues - LIFO, FIFO
 
 Stacks and queues are fundamental data structures in computer science used to organize and manage collections of items. They differ in their behavior and the order in which elements are accessed and removed.
